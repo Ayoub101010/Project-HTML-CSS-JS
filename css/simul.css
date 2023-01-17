@@ -1,0 +1,59 @@
+#table, td{
+    border: 1px solid;
+    width: 100%;
+    background-color: rgba(61, 5, 119, 0.489);
+    border-collapse: collapse;
+    border-spacing: 0;
+    color: aliceblue;
+    
+
+}
+.palmares{
+    border: 1px solid;
+    border-radius: 10px;
+    position: absolute  ;
+    width: 90%;
+    height: 10;
+    color: aliceblue;
+    
+    border-color: rgb(18, 18, 35);
+    background-origin: border-box;
+    background-color: rgba(61, 5, 119, 0.489);
+
+    
+
+}
+.card-2{
+    background-color: aquamarine;
+    height:100%;
+    overflow: auto;
+}
+
+button {
+    background-color: aqua;
+}
+#txt{
+    width: 85%;
+}
+#add{
+    width: auto;
+}
+#ism{
+    -webkit-filter: drop-shadow(5px 5px 60px rgb(118, 117, 119) );
+    filter: drop-shadow(5px 5px 5px rgb(115, 113, 117));
+    position: center;
+}
+#pal{
+    color: black;
+}
+#button{
+    background: linear-gradient(to right,#00CFF6 0%,#D6BE91 );
+    letter-spacing: 1px;
+    padding: 5px 5px;
+}
+#add{
+    letter-spacing: 1px;
+    padding: 3px 5px;
+    background: linear-gradient(to right,#237383 0%,#5d6061 );
+
+}
